@@ -17,13 +17,13 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 此文中讲述在 Quantumult 中配置 SSR、V2ray、分流规则订阅。
 
-如您需要更细化的配置，如使用策略组等，请 **[点此查阅](/iOS/Quantumult_conf.md)** 相关的使用方案，否则请往下继续。
+~~如您需要更细化的配置，如使用策略组等，请 **[点此查阅](/iOS/Quantumult_conf.md)** 相关的使用方案，否则请往下继续。~~
 
 ## 获取订阅
 
-此处将显示您的订阅链接，请注意为登录状态：
+点击此处并滑动到页面最下方获取您的订阅链接，请注意为是否登录官网：
 
-[cinwell website](/sublink?type=quantumult_sub ':include :type=markdown')
+[Quantumult 订阅地址](https://www.lhc-ss.top/user/tutorial?os=ios&client=quantumult)
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 

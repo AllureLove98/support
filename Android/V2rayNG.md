@@ -11,9 +11,9 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 ## 获取订阅
 
-此处将显示您的订阅链接，请注意为登录状态：
+点击此处获取您的订阅链接，请注意为是否登录官网：
 
-[cinwell website](/sublink?type=v2ray ':include :type=markdown')
+[V2rayNG 订阅地址](https://www.lhc-ss.top/user/tutorial?os=android&client=v2rayng)
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 

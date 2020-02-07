@@ -13,9 +13,9 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 
 ## 获取订阅
 
-此处将显示您的订阅链接，请注意为登录状态：
+点击此处并滑动到页面最下方获取您的订阅链接，请注意为是否登录官网：
 
-[cinwell website](/sublink?type=clash ':include :type=markdown')
+[ClashX 订阅地址](https://www.lhc-ss.top/user/tutorial?os=mac&client=clashx)
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
